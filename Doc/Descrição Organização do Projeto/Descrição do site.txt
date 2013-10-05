@@ -1,0 +1,11 @@
+﻿O que pretendo fazer é um site simples, como se fosse um blog com design responsivo.
+Estou pensando em colocar as seguintes coisas:
+- Imagens
+- Textos
+- Um audio MP3/MP4
+
+A minha idéia é criar um blog para leitores que curtam história no estilo RPG. Neste blog possuirá os textos 
+corridos onde ocorrerá a narrativa da história. As imagens eu irei colocar algumas no decorrer da história para o
+leitor imaginar o cenário da narrativa em que se situa.
+O áudio MP3/MP4 é para as pessoas montarem um setlist para ouvir enquanto leem a história.
+Pretendo fazer o site todo do modo mais simples possivel pois não entendo nada de comandos e estilização.
